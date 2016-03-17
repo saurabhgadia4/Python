@@ -16,3 +16,7 @@ Below is the extensive list of all my projects implemented in python:
 * Deciphering Transposition Matrix: It consist of topic modelling program to decipher the given transpositional text using NLP techniques : https://github.com/saurabhgadia4/DecipherWarmup
 
 * ThingApp: Basic python desktop application to access thingiverse API : https://github.com/saurabhgadia4/ThingApp.git
+
+Below is the list of my projects implemented in C:
+
+* This is the parent repository consisting of my C projects: https://github.com/saurabhgadia4/C-Code.git
